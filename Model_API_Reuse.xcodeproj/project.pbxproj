@@ -12,6 +12,7 @@
 		9018D69421F752A400BE5F27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9018D69221F752A400BE5F27 /* Main.storyboard */; };
 		9018D69621F752A600BE5F27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9018D69521F752A600BE5F27 /* Assets.xcassets */; };
 		9018D69921F752A600BE5F27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9018D69721F752A600BE5F27 /* LaunchScreen.storyboard */; };
+		9018D6A121F7530300BE5F27 /* Request-GET&POST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9018D6A021F7530300BE5F27 /* Request-GET&POST.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9018D69521F752A600BE5F27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9018D69821F752A600BE5F27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9018D69A21F752A600BE5F27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9018D6A021F7530300BE5F27 /* Request-GET&POST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Request-GET&POST.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9018D68E21F752A400BE5F27 /* AppDelegate.swift */,
 				9018D69021F752A400BE5F27 /* ViewController.swift */,
+				9018D6A021F7530300BE5F27 /* Request-GET&POST.swift */,
 				9018D69221F752A400BE5F27 /* Main.storyboard */,
 				9018D69521F752A600BE5F27 /* Assets.xcassets */,
 				9018D69721F752A600BE5F27 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				9018D69121F752A400BE5F27 /* ViewController.swift in Sources */,
 				9018D68F21F752A400BE5F27 /* AppDelegate.swift in Sources */,
+				9018D6A121F7530300BE5F27 /* Request-GET&POST.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
